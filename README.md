@@ -6,7 +6,7 @@ Full Stack application and dockerized. Platform to simplify the booking for desk
 | -------------  | --- |
 | :sparkles: Nome        | **Coworking Booking**
 | :label: Tecnologias | React, NodeJS, TypeORM, PostgreSQL, Tailwind, Docker
-| :rocket: URL         | http://15.228.154.83:5137/
+| :rocket: URL         | Not live
 
 ![](https://user-images.githubusercontent.com/64661100/204069261-7b1a4259-8db6-4031-a885-533e6093114d.png#vitrinedev)
 
